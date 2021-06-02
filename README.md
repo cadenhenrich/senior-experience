@@ -1,2 +1,2 @@
-# senior-experience
-My Game Jam from Senior Experience
+# Senior Experience
+> My Game Jam from Senior Experience
